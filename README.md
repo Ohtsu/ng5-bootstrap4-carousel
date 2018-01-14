@@ -66,7 +66,7 @@ If you start local server as follows, you can get the first page in your browser
 ```bash
 $ ng serve
 ```
-You will find the default page using Bootstrap4 button.
+You will find the default page.
 
   - ***First Page*** 
 
