@@ -1,7 +1,6 @@
 var path = require('path');
 var pathvar = path.parse(__dirname);
 var current_dir = pathvar.name;
-console.log('current_dir -------',current_dir);
 const SOLUTION_NAME = current_dir;
 
 
@@ -23,17 +22,17 @@ var dateFormat = {
 };
 
 var time_version = dateFormat.format(new Date(),'yyyyMMddhhmm');
-console.log(time_version);
 
 
 const TARGET = "../"+SOLUTION_NAME+"_"+time_version;
 const TARGET_ANGULAR = TARGET + "/node_modules/@angular";
 
-console.log(TARGET);
-
 var gulp = require('gulp');
 
 gulp.task('localbackup',function(){
+  console.log('current_dir -------',current_dir);
+  console.log('time_version ------',time_version);
+  console.log('target_path  ------',TARGET);
 	gulp
 	.src(['./**','./.**','!./node_modules/**'])
 	.pipe(gulp.dest(TARGET));
