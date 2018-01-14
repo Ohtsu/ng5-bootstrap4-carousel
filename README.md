@@ -1,15 +1,15 @@
 
-# _ng5-bootstrap4-carousel_ Angular5 initial project installed with libraries which are needed for Bootstrap4
+# _ng5-bootstrap4-carousel_ Angular5 sample project installed Bootstrap4 Carousel
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 
-_ng5-bootstrap4-carousel_ is an Angular5 initial project for programmers who want to start up Bootstrap4 easily.
+_ng5-bootstrap4-carousel_ is an Angular5 sample project for programmers who want to use Bootstrap4 Carousel easily.
 
 _Video Explanation_
 
-(English)   <https://youtu.be/MGEoxxalZEs>
+(English)   <https://youtu.be/BrQF_v4jvrs>
 
-(Japanese)  <https://youtu.be/N-7doBn7J4w>
+(Japanese)  <https://youtu.be/Wgc1cPRdQd0>
 
 _Full Source Code_
 <https://github.com/Ohtsu/ng5-bootstrap4-carousel>
