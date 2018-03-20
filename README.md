@@ -95,6 +95,10 @@ Input **Ctrl+C** and **y+Return** to stop the local server.
 
 <https://ng-bootstrap.github.io/#/getting-started>
 
+- "Angular5 Custom Library: The definitive, step-by-step guide", 
+<https://www.udemy.com/draft/1461368/learn/v4/content>
+
+
 
 
 ## Change Log
